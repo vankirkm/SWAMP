@@ -1,0 +1,9 @@
+[submodule "SWAMP-arduino"]
+	path = SWAMP-arduino
+	url = git@github.com:vankirkm/SWAMP-arduino.git
+[submodule "SWAMP-app-server"]
+	path = SWAMP-app-server
+	url = git@github.com:vankirkm/SWAMP-app-server.git
+[submodule "SWAMP-app-client"]
+	path = SWAMP-app-client
+	url = git@github.com:vankirkm/SWAMP-app-client.git
